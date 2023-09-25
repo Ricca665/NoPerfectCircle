@@ -9,7 +9,7 @@ The first thing that the code its gonna do is to open up the Neal.fun Perfect ci
 
 # Compatibility list
 Supported Browsers: chrome, firefox or edge
-Supported os: Windows
+Supported os: Windows, in the future its going to have linux support, or at least that what i hope
 
 # How to set itup
 
