@@ -28,7 +28,8 @@ And its going to be something like this:
 After that open up this site: https://neal.fun/perfect-circle/
 And with the program open up go over the go button on the site, and save the coordinates of the go button coordinates
 
-To modify the x and y values Open up circle.py in notepad and find the x,y values and its going to be like this if you did not modify the coordinates, its under the r value
+To modify the x and y values Open up circle.py in notepad and find the x,y values and its going to be like this if you did not modify the coordinates
+
 ![image](https://github.com/Ricca665/NoPerfectCircle/assets/84286914/83c76abd-5850-44f9-93f0-2f20bd993121)
 
 After that modify the x and y values with your own's coordinates
