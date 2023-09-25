@@ -1,8 +1,8 @@
-# NoPerfectCircle
+# PerfectCircleTwist
 This is a program that does the perfect circle but with a twist...
 
 # Whats the twist?
-The twist is that its going to open neal.fun Perfect circle and click go and then draw the circle, also after its going to close the webbrowser and shutdown the pc
+The twist is that its going to open neal.fun Perfect circle and click the go button and then draw the circle, also after its going to close the webbrowser and shutdown the pc
 
 # A much more detailed view of the code
 The first thing that the code its gonna do is to open up the Neal.fun Perfect cirle game, its going to wait 4 seconds for the page to load and then its going to click the go button and then its going to draw the circle, after that its going to wait 0.3 seconds before closing the browser and then shut down the pc with the shutdown program in windows with the arguments "-s -t 0" 
