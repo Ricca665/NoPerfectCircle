@@ -38,3 +38,7 @@ Then save the file and you are done
 # Running the code
 Just double click the Circle.py app and let it do its thing
 
+# Reuse this code
+The code is open source but if you want to use this code in your progect mention my github account in any way
+
+
