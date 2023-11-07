@@ -11,7 +11,7 @@ The first thing that the code its gonna do is to open up the Neal.fun Perfect ci
 Supported Browsers: chrome, firefox or edge
 Supported os: Windows, in the future its going to have linux support, or at least that what i hope
 
-# How to set itup
+# How to set it up
 
 To set this up you need to first have python and then have installed pyautogui with this commad:
 pip install pyautogui
